@@ -1,0 +1,112 @@
+
+
+.mailcon{
+  display:flex;
+  padding-top:15px;
+}
+
+
+/* media  mobile view*/
+ 
+@media only screen and (max-width:600px){
+
+  /*comp1*/
+
+     .mb .header{
+        margin-top:20px;
+      
+     }
+     .header-child2{
+      display:none;
+     }
+
+     .header-child3{
+      display:none;
+     }
+
+     .section2{
+      display:none;
+     }
+
+     .mb .header-parent1{
+      flex-basis: 10%;
+     }
+
+     .mb .header-parent2{
+      padding:0px;
+      flex-basis:80%;
+     }
+     .mb .header-parent2 input{
+      margin: 0;
+     }
+     .mb .header-parent3{
+      display: none;
+     }
+     
+     .mb .mail3{
+      width:80%;
+     }
+
+     .mb .wholesection3{
+      display:flex;
+      justify-content:space-between;
+     }
+
+     .mb .comps{
+      flex-flow:column;
+      
+      
+     }
+     .mb .comps .compusername{
+      width: 50%;
+
+     }
+
+     .mb .compdate{
+      width:16%;
+
+     }
+          
+}
+
+
+/*media tablet view*/
+
+
+  @media only screen and (min-width:601px) and (max-width:767px){
+
+ .tb .wholesection{
+  width:100%;
+ }
+ .tb .wholesection2{
+  width:33%;
+ }
+
+ .tb .header-child5 input{
+  
+  margin-right:0px ;
+ }
+
+ .tb .header{
+  
+   margin-top:20px;
+   margin-left:50px;
+ }
+ .tb .header-parent2{
+  padding:0px;
+  flex-basis:50%;
+ }
+ .tb .section2{
+  width:20%;
+  margin-left:0px;
+ }
+ .tb .mailcon{
+  width:97%;
+ }
+
+
+ 
+ 
+ 
+ 
+  }

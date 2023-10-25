@@ -1,0 +1,183 @@
+
+:root{
+   --background-color:rgba(245, 245, 220, 0.714);
+   --width:100%; 
+   --margin:auto;
+   --padding:0px;
+   --max-width:1200px;
+}
+
+  /*header component1*/
+
+.wholesection{
+    background-color:var(--background-color);
+    width:var(--width);
+    margin:var(--margin);
+    
+    
+}
+.header{
+    
+    background-color:var(--background-color);
+    max-width:var(--max-width);
+    margin:var(--margin);
+    display:flex;
+    justify-content:space-between;
+}
+.header-parent1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-basis:20%;
+    
+    
+}
+
+
+.header-child2{
+    font-size:20px;
+    color:orange;
+}
+
+
+
+
+.header-parent2{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-basis:60%;
+    max-height:200px;
+    border-radius: 50px;
+    background-color:lightblue;
+    margin:auto;
+    padding:20px;
+}
+
+.header-parent3{
+    display: flex;
+    justify-content:space-evenly;
+    padding:2%;
+    align-items: center;
+    flex-basis:20%;
+}
+
+
+.header-child5 input{
+    border:none;
+    width:100%;
+    margin-right:430px;
+    font-size:20px;
+    background-color:lightblue;
+    color:black;
+}
+
+.header-child3 {
+    font-size:20px;
+}
+
+.header-child1{
+    font-size:20px;
+    width:30px;
+    padding:5px;
+    display:flex;
+    height:30px;
+
+
+}
+.header-child1 svg{
+    margin:auto;
+}
+
+.header-child1:hover{
+   border-radius:20px;
+   background-color:rgba(0, 0, 0, 0.36);
+}
+
+    .header-child4{
+        font-size:20px;
+        width:30px;
+        padding:5px;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        height:30px;
+}
+
+.header-child4:hover{
+    background-color:rgba(0, 0, 0, 0.334);
+    border-radius:20px;
+}
+
+.header-child6{
+    font-size:20px;
+    width:30px;
+    padding:5px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:30px;
+
+}
+
+.header-child6:hover{
+    background-color:rgba(0, 0, 0, 0.334);
+    border-radius:20px;
+}
+
+.header-child7{
+    font-size:20px;
+    width:30px;
+    padding:5px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:30px;
+
+}
+
+.header-child7:hover{
+    background-color:rgba(0, 0, 0, 0.334);
+    border-radius:20px;
+}
+
+
+
+.header-child8{
+    font-size:20px;
+    width:30px;
+    padding:5px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:30px;
+
+}
+
+.header-child8:hover{
+    background-color:rgba(0, 0, 0, 0.334);
+    border-radius:20px;
+}
+
+.header-child9{
+    font-size:20px;
+    width:30px;
+    padding:5px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:30px;
+
+}
+
+.header-child9:hover{
+    background-color:rgba(0, 0, 0, 0.334);
+    border-radius:20px;
+}
+
+
+
+
+
+
+

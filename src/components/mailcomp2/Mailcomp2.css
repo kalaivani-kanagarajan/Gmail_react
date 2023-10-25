@@ -1,0 +1,109 @@
+:root{
+    --background-color:rgba(245, 245, 220, 0.714);
+    --width:100%; 
+    --margin:auto;
+    --padding:0px;
+    --max-width:1400px;
+ }
+ 
+   /*header component2*/
+   
+
+    .wholesection2{
+        background-color:var(--background-color);
+   }
+
+    .section2{
+        background-color:var(--background-color);
+        max-width:300px;
+        margin-left:100px;
+        padding:30px;
+        padding-left: 15px;
+        padding-top:5px;
+        
+
+ }
+
+    .section2-grandparent1{
+        
+        padding:20px;
+        display:flex;
+        width:180px;
+        background-color: lightblue;
+        border-radius:10px;
+        padding-top:20px;
+        
+    }
+
+    .section2-grandparent1:hover{
+          box-shadow:2px 1px 10px 1px rgba(0, 0, 0, 0.309);
+          
+    }
+
+
+    .section2-child1{
+        padding:20px;
+        font-size:20px;
+        width:200px;
+       
+    }
+   
+    .section2-child1a{
+        font-size:20px;
+        
+   }
+  .section2-parent{
+    padding:20px;
+  }
+
+     .sec2{
+        padding:15px;
+        width:150px;
+        display:flex;
+        align-items:center;
+        }
+
+        .sec2:hover{
+         border-radius:20px;
+         background-color:rgba(0, 0, 0, 0.34);
+        }
+     .section2-child2{
+        font-size:20px;
+     }
+
+     .section2-child2a{
+        margin-left:30px;
+        font-size:20px;
+     }
+
+
+     .section2-grandparent3{
+       display:flex;
+       padding:15px;
+        width:150px;
+       justify-content:center;
+       margin-right:40px;
+      
+
+     }
+
+     .section2-grandparent3:hover{
+        border-radius:20px;
+        background-color:rgba(0, 0, 0, 0.399);
+     }
+
+     .section2-child8{
+      font-size:20px;
+      }
+      
+     .section2-child8a{
+        font-size:20px;
+        margin-left:20px;
+      
+     }
+
+     
+
+
+
+
