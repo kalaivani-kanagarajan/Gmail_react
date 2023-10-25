@@ -1,0 +1,88 @@
+   
+   [
+
+     {
+        "username": "Naukri Alerts",
+        "Content": " Urgent requirement for the sole of english teacher",
+         "Date"  : "15 oct",
+         "isRead":"false"
+
+     },
+
+     {
+        "username": "Git Hub",
+        "Content": " A third party oAuth application has been added to your account",
+         "Date"  : "14 oct",
+         "isRead":"false"
+     
+    },
+
+    {
+        "username": "Quora",
+        "Content": " Is there any way to revive our career at the full stack developer?",
+         "Date"  : "13 oct",
+         "isRead":"false"
+     
+    },
+
+
+
+    {
+        "username": "NPTEL",
+        "Content": "NPTEL Newsletter : october 2023 : vol3 : week2",
+         "Date"  : "12 oct",
+         "isRead":"false"
+     
+    },
+
+
+    {
+        "username": "AMCAT",
+        "Content": "Prepare for your job interview in block chain",
+         "Date"  : "11 oct",
+         "isRead":"true"
+     
+    },
+
+
+    {
+        "username": "LinkedIn",
+        "Content": "Neeraja birla and others share their thoughts in LinkedIn",
+         "Date"  : "10 oct",
+         "isRead":"true"
+     
+    },
+
+    {
+        "username": "Vercel",
+        "Content": "Get ready too ship faster with your new hobby account",
+         "Date"  : "9 oct",
+         "isRead":"true"
+     
+    },
+
+
+    {
+        "username": "Simplilearn",
+        "Content": "Webinar !!  Limited seats available register now",
+        "Date"  : "8 oct",
+        "isRead" :"true"
+     
+    }
+
+]
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+      
