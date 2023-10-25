@@ -17,7 +17,7 @@ const mailcomp1 = () => {
             <div className='header-parent1'>
             
                  <div className='header-child1'><FaBars/></div>
-                 <div className='header-child2' > <img src="/l1.png" alt="l1.png"/></div>
+                 <div className='header-child2' > <img src="./l1.png" alt="l1.png"/></div>
                  <div className='header-child3' ><h2>Gmail</h2></div>
             
             </div>
