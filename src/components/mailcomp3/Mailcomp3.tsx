@@ -19,7 +19,7 @@ const Mailcomp3 = () => {
 
     useEffect(() => {
       
-        axios.get("http://localhost:5174/src/scripts/gmail.json").then(r=>{
+        axios.get("https://kalaivani-kanagarajan.github.io/Gmail_react/gmail.json").then(r=>{
             console.log(r.data);  
             setusers(r.data)  
         
